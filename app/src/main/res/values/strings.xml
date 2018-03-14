@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="Text1">I Am</string>
+    <string name="Text2Bold">Poor</string>
 </resources>
